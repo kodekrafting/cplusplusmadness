@@ -1,0 +1,2 @@
+# cplusplusmadness
+C++ code poetry
